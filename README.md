@@ -50,6 +50,6 @@ To secure a Junior Developer opportunity where I can contribute, learn from expe
 
 📫 Contact
 
-LinkedIn: (add your link here)
+LinkedIn: https://www.linkedin.com/in/caio-oliveira-37b766345/
 
 GitHub: github.com/CaioRO777
