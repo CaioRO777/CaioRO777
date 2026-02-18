@@ -22,6 +22,7 @@ Programming Logic
 Database Fundamentals (in progress)
 
 📌 Featured Projects
+
 🔹 Grade Calculator
 
 A simple web application that calculates the average of four grades and provides dynamic visual feedback (approved / failed) using DOM manipulation.
