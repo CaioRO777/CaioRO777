@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+👋;I'm+Caio+Oliveira!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;pause=1000&amp;color=2196F3&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Welcome+to+my+profile!;I'm+Caio+Oliveira!" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">Junior Developer | Systems Analysis and Development (ADS) Student 🇧🇷</h3>
 
 <p align="center">
@@ -22,10 +21,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRO777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&theme=algolia" alt="Linguagens mais usadas por Caio" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioRO777&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&amp;layout=compact&amp;theme=algolia" alt="Linguagens mais usadas" />
 </div>
 
+---
 ### 🛠️ Technical Skills
 
 <p align="left">
