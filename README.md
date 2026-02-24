@@ -21,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioRO777&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&amp;layout=compact&amp;theme=algolia" alt="Linguagens mais usadas" />
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=CaioRO777&show_icons=true&theme=algolia&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&theme=algolia" alt="Linguagens mais usadas" />
 </div>
 
 ---
