@@ -1,56 +1,60 @@
- Hello there, My names is Caio Oliveira, Welcome to my profile!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+👋;I'm+Caio+Oliveira!+👨‍💻" alt="Typing SVG" />
+</h1>
 
-Junior Developer | Systems Analysis and Development Student
+<h3 align="center">Junior Developer | Systems Analysis and Development (ADS) Student 🇧🇷</h3>
 
-I am a dedicated developer in training, focused on building strong foundations in web development and software fundamentals.
-Currently strengthening my skills in front-end technologies while continuously improving problem-solving and logical thinking through practical projects.
+<p align="center">
+  I am a dedicated developer in training, focused on building strong foundations in web development and software fundamentals. Currently strengthening my front-end skills while continuously improving problem-solving and logical thinking through practical projects.
+</p>
 
-My goal is to grow consistently and transition into professional-level development through discipline, structured learning, and real-world project experience.
+---
 
-🛠 Technical Skills
+### 👨‍💻 About Me
 
-HTML5
+- 🎓 **Background:** Currently studying Systems Analysis and Development (ADS).
+- 🎯 **My Goal:** To grow consistently and transition into professional-level development through discipline, structured learning, and real-world project experience.
+- 💡 **Current Focus:** Improving front-end architecture fundamentals, writing cleaner code, and building consistent Git version control habits.
+- 🚀 **Looking For:** A Junior Developer opportunity where I can contribute, learn from experienced professionals, and continue evolving technically and strategically.
 
-CSS3
+---
 
-JavaScript
+### 📊 GitHub Stats
 
-Git & GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRO777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&theme=algolia" alt="Linguagens mais usadas por Caio" />
+</div>
 
-Programming Logic
+### 🛠️ Technical Skills
 
-Database Fundamentals (in progress)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Databases_Foundations-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" />
+</p>
 
-📌 Featured Projects
+---
 
-🔹 Grade Calculator
+### 📌 Featured Projects
 
-A simple web application that calculates the average of four grades and provides dynamic visual feedback (approved / failed) using DOM manipulation.
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| **[Grade Calculator](https://github.com/CaioRO777/symmetrical-octo-rotary-phone)** | A simple web app that calculates the average of 4 grades with dynamic visual feedback (approved/failed). | `DOM Manipulation` `JS` |
+| **[Wordle-style Game](https://github.com/CaioRO777/cuddly-dollop)** | A logic-focused project inspired by Wordle, built to practice conditionals, loops, and interface interaction. | `Logic` `Loops` `JS` |
+| **[HTML Portfolio Page](https://github.com/CaioRO777/html-portfolio)** | Structured static webpage focused on semantic HTML and clean layout organization. | `Semantic HTML` `CSS3` |
 
-🔹 Wordle-style Game
+> 💡 *Note: Click on the project names to check out the repositories!*
 
-A logic-focused project inspired by Wordle, built to practice conditionals, loops, and interface interaction.
+---
 
-🔹 HTML Portfolio Page
+### 📫 Let's Connect!
 
-Structured static webpage focused on semantic HTML and clean layout organization.
-
-📈 Current Focus
-
-Improving front-end architecture fundamentals
-
-Writing cleaner and more maintainable code
-
-Strengthening problem-solving skills
-
-Building consistent Git version control habits
-
-🚀 Professional Goal
-
-To secure a Junior Developer opportunity where I can contribute, learn from experienced professionals, and continue evolving technically and strategically.
-
-📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/caio-oliveira-37b766345/
-
-GitHub: github.com/CaioRO777
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-oliveira-37b766345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
