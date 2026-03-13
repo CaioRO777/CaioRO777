@@ -42,7 +42,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎀 **[Projeto Akari](https://github.com/CaioRO777/Projeto-Akari)** | **[CROWN JEWEL]** A fully offline, voice-interactive AI Desktop Companion. Integrates local LLMs (Ollama), speech-to-text (Whisper), text-to-speech (Voicevox), OS automation, and memory management. | `Python` `AI/LLMs` `Architecture` |
+| 🎀 **[Projeto Akari](https://github.com/CaioRO777/Akari-Project)** | **[CROWN JEWEL]** A fully offline, voice-interactive AI Desktop Companion. Integrates local LLMs (Ollama), speech-to-text (Whisper), text-to-speech (Voicevox), OS automation, and memory management. | `Python` `AI/LLMs` `Architecture` |
 | 🟩 **[Wordle-style Game](https://github.com/CaioRO777/cuddly-dollop)** | A logic-focused web game inspired by Wordle. Built to master arrays, loops, complex conditionals, and advanced DOM interaction. | `JavaScript` `Logic` |
 | 🧮 **[Grade Calculator](https://github.com/CaioRO777/symmetrical-octo-rotary-phone)** | A web application for calculating academic averages with real-time dynamic UI feedback based on the results. | `JS` `HTML/CSS` |
 
