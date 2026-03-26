@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img align="right" height="380" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Arnold_B%C3%B6cklin_-_Selbstbildnis_mit_fiedelndem_Tod_%281872%29.jpg" alt="Arnold Böcklin - Self-Portrait with Death" />
+<img align="right" height="380" src="https://i.pinimg.com/webp/736x/56/97/94/56979465960904af524d8f19895c2615.webp" alt="Trocando ideia com o Capeta" />
 
 ### 🕯️ Architect of Code & Systems Student
 
