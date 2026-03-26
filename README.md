@@ -1,68 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;pause=1000&amp;color=2196F3&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Welcome+to+my+profile!;I'm+Caio+Oliveira!" alt="Typing SVG" />
-</h1>
-<h3 align="center">Software Developer | Systems Analysis and Development (ADS) Student 🇧🇷</h3>
-
-<p align="center">
-  I am a passionate developer focused on building robust applications, ranging from interactive web interfaces to <b>complex local AI architectures</b>. I thrive on solving difficult logical problems, continuously expanding my tech stack, and writing clean, scalable code.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Background:** Currently studying Systems Analysis and Development (ADS).
-- 💡 **Current Focus:** Mastering modern Front-End development (React) while building advanced Python-based integrations and AI automation tools.
-- 🚀 **My Evolution:** I recently leaped from basic DOM manipulation to architecting a fully offline, voice-interactive AI assistant using local LLMs.
-- 🎯 **Looking For:** A Developer opportunity where I can bring my grit, quick learning ability, and passion for software architecture to a real-world tech team.
-
----
-
-### 🛠️ Technical Arsenal
-
-**Core & Front-End:**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Databases_Foundations-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" />
-</p>
-
-**Back-End, AI & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎀 **[Projeto Akari](https://github.com/CaioRO777/Akari-Project)** | **[CROWN JEWEL]** A fully offline, voice-interactive AI Desktop Companion. Integrates local LLMs (Ollama), speech-to-text (Whisper), text-to-speech (Voicevox), OS automation, and memory management. | `Python` `AI/LLMs` `Architecture` |
-| 🟩 **[Wordle-style Game](https://github.com/CaioRO777/cuddly-dollop)** | A logic-focused web game inspired by Wordle. Built to master arrays, loops, complex conditionals, and advanced DOM interaction. | `JavaScript` `Logic` |
-| 🧮 **[Grade Calculator](https://github.com/CaioRO777/symmetrical-octo-rotary-phone)** | A web application for calculating academic averages with real-time dynamic UI feedback based on the results. | `JS` `HTML/CSS` |
-
-> 💡 *Note: Click on the project names to check out the repositories and the code architecture!*
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=CaioRO777&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://i.pinimg.com/1200x/c2/df/91/c2df919e42f0cf0a51ff0c6c1ddefe39.jpg" alt="Dark Ambient" width="100%" />
+  <br><br>
+  
+  <a href="https://www.linkedin.com/in/caio-oliveira-37b766345/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-141311?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/CaioRO777" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-141311?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+  </a>
 </div>
 
----
+<br><br>
 
-### 📫 Let's Connect!
+<img align="right" height="380" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Arnold_B%C3%B6cklin_-_Selbstbildnis_mit_fiedelndem_Tod_%281872%29.jpg" alt="Arnold Böcklin - Self-Portrait with Death" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/caio-oliveira-37b766345/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### 🕯️ Architect of Code & Systems Student
+
+> *"Ars longa, vita brevis. Crafting enduring logic in a fleeting world."*
+
+I approach software development not just as an engineering task, but as an artisanal craft. My current hours are dedicated to the deep study of **React and Front-End Architecture**, deciphering complex logical problems and structuring interfaces that endure.
+
+Beyond the web, my pursuit of knowledge led me to architect fully offline, voice-interactive AI assistants using **Python, Local LLMs (Ollama), and OS Automation**, pushing hardware to its absolute limits.
+
+*Memento Mori* — Time is our most valuable asset, so I strive to write clean, purposeful, and scalable code.
+
+<br><br><br>
+
+<h3 align="center">The Arsenal</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-141311?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-141311?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-141311?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-141311?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-141311?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-141311?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-141311?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
+</div>
+
+<br><br>
+
+<h3 align="center">Featured Grimoire</h3>
+
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| 🎀 **[Projeto Akari](https://github.com/CaioRO777/Projeto-Akari)** | **[CROWN JEWEL]** A fully offline, voice-interactive AI Desktop Companion. Integrates local LLMs (Ollama), speech-to-text (Whisper), text-to-speech (Voicevox), OS automation, and memory management. | `Python` `AI/LLMs` `Architecture` |
+| 🟩 **[Wordle-style Game](https://github.com/CaioRO777/cuddly-dollop)** | A logic-focused project inspired by Wordle, built to practice conditionals, loops, and interface interaction. | `Logic` `Loops` `JS` |
+| 🧮 **[Grade Calculator](https://github.com/CaioRO777/symmetrical-octo-rotary-phone)** | A simple web app that calculates the average of 4 grades with dynamic visual feedback (approved/failed). | `DOM` `JS` |
+| 🌐 **[HTML Portfolio Page](https://github.com/CaioRO777/html-portfolio)** | Structured static webpage focused on semantic HTML and clean layout organization. | `HTML` `CSS3` |
+
+<br><br>
+
+<h3 align="center">Chronicles</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioRO777&show_icons=true&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91&icon_color=8A7A5F&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91" alt="Top Languages" />
+</div>
