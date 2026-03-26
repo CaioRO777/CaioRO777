@@ -53,6 +53,6 @@ Beyond the web, my pursuit of knowledge led me to architect fully offline, voice
 
 <h3 align="center">Chronicles</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioRO777&show_icons=true&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91&icon_color=8A7A5F&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91" alt="Top Languages" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=CaioRO777&show_icons=true&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91&icon_color=8A7A5F&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=CaioRO777&layout=compact&hide_border=true&bg_color=141311&title_color=D4AF37&text_color=A89F91" alt="Top Languages" />
 </div>
